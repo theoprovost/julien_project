@@ -2,7 +2,8 @@
 **/.env
 **/__pycache__
 
-app/data/*
 !app/data/.gitkeep
+app/data/users/
 !app/data/users/.gitkeep
+app/data/albums/
 !app/data/albums/.gitkeep
